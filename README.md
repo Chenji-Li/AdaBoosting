@@ -1,5 +1,5 @@
 #AdaBoosting --- Python Code
-Here is the python project for realising the algorithm AdaBoosting with one-dimension training data (1D array).<br>
+Here is my python project for realising the algorithm AdaBoosting with one-dimension training data (1D array).<br>
 <br>
 ##Functions<br>
 - ###weakClassif
