@@ -10,15 +10,11 @@ Here is my python project for realising the algorithm AdaBoosting with one-dimen
     According to the weight of each training data, the function helps us to compute the error between the decision made by the weak classifier and the label.<br>
     <br>
 - ### returnWeakClassif
-    The function allows us to choose and return the best weak classifier<br>
-<br>
+    The function allows us to choose and return the best weak classifier<br><br>
 - ### strongClassif
-    It will call the function ***returnWeakClassif*** to get the best classifier, then compute the weight of the classifier. Finally, the function will return all weak classifiers and their weights<br>
-<br>
+    It will call the function ***returnWeakClassif*** to get the best classifier, then compute the weight of the classifier. Finally, the function will return all weak classifiers and their weights<br><br>
  - ### Prediction 
-    Then we combine all weak classifiers to a strong classifier and we are able to predict. <br>
-   <br>
-   <br>
+    Then we combine all weak classifiers to a strong classifier and we are able to predict. <br><br><br>
    
 With these functions, you are allowed to realise the AdaBoosting with 1D training data.<br>
 <br>
