@@ -4,8 +4,9 @@ Here is my python project for realising the algorithm AdaBoosting with one-dimen
 ## Functions<br>
 - ### weakClassif
     This function allows us to train a weak classifier with a threshold and a parameter of condition p. It will return the decision of this weak classifier.<br>
-    when p = +1, if x < threshold, return 1; if not, return -1 <br>
-    when p = -1, if x > threshold, return 1; if not, return -1 <br><br>
+    when p = +1, if x < threshold, return +1; if not, return -1 <br>
+    when p = -1, if x > threshold, return +1; if not, return -1 <br>
+    <br>
 - ### evalError
     According to the weight of each training data, the function helps us to compute the error between the decision made by the weak classifier and the label.<br>
     <br>
