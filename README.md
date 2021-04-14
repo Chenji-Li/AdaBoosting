@@ -12,7 +12,7 @@ Here is my python project for realising the algorithm AdaBoosting with one-dimen
 - ### returnWeakClassif
     The function allows us to choose and return the best weak classifier<br><br>
 - ### strongClassif
-    It will call the function ***returnWeakClassif*** to get the best classifier, then compute the weight of the classifier. Finally, the function will return all weak classifiers and their weights<br><br>
+    It will call the function **returnWeakClassif** to get the best classifier, then compute the weight of the classifier. Finally, the function will return all weak classifiers and their weights<br><br>
  - ### Prediction 
     Then we combine all weak classifiers to a strong classifier and we are able to predict. <br><br><br>
    
